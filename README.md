@@ -2,7 +2,7 @@
   <img src="https://github.com/juliatenoriocalado.jpeg" alt="Foto de Júlia" width="150" style="border-radius:50%">
 </p>
 
-<h1 align="center">Hi, there! Me chamo Júlia Calado, como vai?</h1>
+<h1 align="center">Hi, there! Me chamo Júlia, como vai?</h1>
 <p align="center">
   <strong>Estudante de Ciência da Computação | Desenvolvedora em formação | Apaixonada por tecnologia e desenvolvimento web</strong>
 </p>

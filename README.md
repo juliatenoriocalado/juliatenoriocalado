@@ -19,8 +19,7 @@ Tenho interesse em: **C/C++, desenvolvimento web, análise de dados e tecnologia
 ### 1. Sistema de Controle de Tarefas
 - **Tecnologias:** Java, HTML, CSS  
 - **Descrição:** Sistema para organizar tarefas do dia a dia, com categorias e prioridades.  
-- [Repositório do projeto](#) *(adicione o link real do seu projeto)*
-
+- [Repositório do projeto](#)
 ### 2. Portfolio Web
 - **Tecnologias:** HTML, CSS, JavaScript  
 - **Descrição:** Página web para apresentar meus projetos e experiências.  

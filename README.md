@@ -20,21 +20,21 @@ Tenho interesse em: **C/C++, desenvolvimento web, análise de dados e tecnologia
 ### 1. Escape Erick – Jogo No/Low Code (Bitsy)
 - **Tecnologias:** Bitsy  
 - **Descrição:** Primeiro jogo desenvolvido na cadeira de Introdução à Computação. "Escape Erick" é um jogo divertido e cômico, criado em equipe, com narrativa estratégica para encontrar a chave da saída. O objetivo principal era homenagear figuras reais da comunidade CESAR School.  
-- **Disponível em:** [Itch.io](#) *(adicione o link real do jogo)*
+- **Disponível em:** [Itch.io](https://riosgabri.itch.io/escape-erick)
 
 ---
 
 ### 2. Adoção+ – Sistema CRUD
 - **Tecnologias:** Python, HTML, bibliotecas gráficas  
 - **Descrição:** Projeto de Fundamentos da Programação desenvolvido em equipe. Sistema completo de CRUD para animais e adotantes, permitindo cadastrar, editar, excluir e analisar perfis, com sugestões automáticas. Aprimorei habilidades de comunicação em equipe e integração entre Python e HTML.  
-- **Repositório:** [Acesse no GitHub](#) *(adicione o link real do repositório)*
+- **Repositório:** [Acesse no GitHub](https://github.com/eduardommb/fp-crud-animais)
 
 ---
 
 ### 3. Projetos em Python – Matemática Computacional
 - **Método da Bisseção:** Calcula raízes de funções usando algoritmo numérico, consolidando conceitos de lógica, algoritmos e métodos numéricos.  
 - **Cálculo de Integrais com Gráfico:** Aproximação de integrais usando pontos fornecidos pelo usuário, com visualização gráfica. Desenvolvido em equipe, aprimorando habilidades em bibliotecas gráficas e visualização de dados.  
-- **Repositório:** [Projetos em Python](#) *(adicione o link real do repositório)*
+- **Repositório:** [Projetos em Python](https://github.com/LarissaGiovanna/math)
 
 ---
 

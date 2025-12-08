@@ -37,8 +37,8 @@ Tenho interesse em: **C/C++, desenvolvimento web, análise de dados e tecnologia
 
 ## 📫 Contato
 - Email: jtc@cesar.school  
-- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- GitHub: [juliatenoriocalado](https://www.linkedin.com/in/juliatenoriocalado/)
+- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/juliatenoriocalado/)  
+- GitHub: [juliatenoriocalado](https://github.com/juliatenoriocalado)
 
 ---
 

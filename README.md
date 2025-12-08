@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/juliatenoriocalado.jpeg" alt="Foto de Júlia" width="150" style="border-radius:50%">
+  <img src="https://github.com/juliatenoriocalado.png" alt="Foto de Júlia" width="150" style="border-radius:50%">
 </p>
 
 <h1 align="center">Hi, there! Me chamo Júlia, como vai?</h1>

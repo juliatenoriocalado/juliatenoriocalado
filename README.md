@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, there! Me chamo Júlia, como vai?</h1>
 <p align="center">
-  <strong>Estudante de Ciência da Computação | Desenvolvedora em formação | Apaixonada por tecnologia e desenvolvimento web</strong>
+  <strong>Estudante de Ciência da Computação | Desenvolvedora em formação | Computer Science student • Backend • Data • AI</strong>
 </p>
 
 ---

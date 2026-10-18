@@ -10,7 +10,7 @@
   <a href="mailto:jtc@cesar.school"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
-> 🔎 **Em busca de estágio remoto ou híbrido** em desenvolvimento back-end, dados ou aplicações com IA.
+> **Em busca de estágio remoto ou híbrido** em desenvolvimento back-end, dados ou aplicações com IA.
 
 ---
 
